@@ -1,0 +1,2 @@
+Dashboard images folder
+
